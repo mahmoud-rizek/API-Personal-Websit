@@ -40,7 +40,11 @@ INSTALLED_APPS = [
 
     # Modules & libraries
     'rest_framework',
-    'django-filter',
+
+    'django_countries',
+    'phonenumber_field',
+
+
 
 
     # Apps
